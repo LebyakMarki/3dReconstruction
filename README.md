@@ -1,4 +1,5 @@
 # Repository with 3D reconstruction implementation.
+#### Team: Lebyak Markiyan, Katya Detsyk, Antonina Chukhra
 This repository presents a ready version of 3d reconstruction pipeline with calibration of your camera, getting disparity map and reprojecting points. Code implementation also features two more implementations with c++ threads and mpi.
 What is need is:
 one camera
